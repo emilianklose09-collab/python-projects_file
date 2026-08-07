@@ -16,12 +16,12 @@ Willkommen auf meinem GitHub-Portfolio! Hier präsentiere ich eine Auswahl eigen
 - **Konzept:** Abstraktion kaufmännischer und logistischer Abläufe.
 - **Highlights:** Bezahlautomaten-Logik mit schrittweiser Verrechnung und Rückgeld-Ermittlung sowie automatisierte Paketgewicht-Prüfung mit Schicht-Report.
 
----
-*Sprache: Python 3*
-
 ## 🚀 Ausführung
 
-Um ein Projekt lokal auszuführen, stelle sicher, dass Python 3 installiert ist, und starte die jeweilige Datei im Terminal:
+Stelle sicher, dass Python installiert ist, und starte das gewünschte Skript über das Terminal:
 
-```bash
-python Lauf_Coach.py
+**Windows:**
+```cmd
+py Lauf_Coach.py
+
+Entwickelt und getestet unter Version 3.14.3
