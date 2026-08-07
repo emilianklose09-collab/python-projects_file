@@ -18,3 +18,10 @@ Willkommen auf meinem GitHub-Portfolio! Hier präsentiere ich eine Auswahl eigen
 
 ---
 *Sprache: Python 3*
+
+## 🚀 Ausführung
+
+Um ein Projekt lokal auszuführen, stelle sicher, dass Python 3 installiert ist, und starte die jeweilige Datei im Terminal:
+
+```bash
+python Lauf_Coach.py
