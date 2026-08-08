@@ -4,7 +4,7 @@
 
 Hi! Willkommen auf meinem GitHub-Profil.
 
-Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meiner Freizeit mit Python. Auf dieser Seite zeige ich ein paar Skripte und kleine Konsolen-Programme, die ich gebaut habe, um das Programmieren zu lernen und eigene Ideen umzusetzen. Wenn ich mal nicht weiterwusste oder meine Programme ästhetisch etwas aufwerten wollte, habe ich auch gezielt KI-Tools oder Internetseiten genutzt, um Fehler zu finden und den Code besser zu verstehen sowie umsetzen zu können.
+Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meiner Freizeit mit Python. Auf dieser Seite zeige ich ein paar Skripte und kleine Konsolen-Programme, die ich gebaut habe, um das Programmieren zu lernen und eigene Ideen umzusetzen. Wenn ich mal nicht weiterwusste oder meine Programme ästhetisch etwas aufwerten wollte, habe ich auch gezielt KI-Tools oder Internetseiten genutzt, um Fehler zu finden und den Code besser zu verstehen.
 
 ---
 
