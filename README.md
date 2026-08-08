@@ -1,4 +1,4 @@
-PYTHON PROJECTS – PORTFOLIO
+⚡PYTHON PROJECTS – PORTFOLIO⚡
 Hi! Willkommen auf meinem GitHub-Profil.
 
 Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meiner Freizeit mit Python. Auf dieser Seite zeige ich ein paar Skripte und kleine Konsolen-Programme, die ich gebaut habe, um das Programmieren zu lernen und eigene Ideen umzusetzen. Wenn ich mal nicht weiterwusste oder meine Programme ästhetisch etwas aufwerten wollte, habe ich auch gezielt KI-Tools oder Internetseiten genutzt, um Fehler zu finden und den Code besser zu verstehen sowie umsetzen zu können.
@@ -15,8 +15,6 @@ Filtert Läufe nach Wochentagen und zeigt den schnellsten Lauf an
 
 Speichert die Daten dauerhaft ab (JSON) und fängt falsche Eingaben ab
 
-...
-
 2. Tabellen & Zuordnungen (Praxis_Block_1_Bsp_1.py)
 Was es macht: Verknüpft verschiedene Daten miteinander (wie bei einer Datenbank, nur in Python).
 
@@ -25,8 +23,6 @@ Features:
 Verbindet z. B. Mitarbeiter oder Mitglieder über IDs mit passenden Abteilungen und Tarifen
 
 Nutzt Dictionaries, um Daten sauber zuzuordnen und auszulesen
-
-...
 
 3. Logik-Simulationen (Parkhaussystem.py)
 Was es macht: Kleines Programm, welches Abläufe/Situationen aus dem Alltag nachstellt.
