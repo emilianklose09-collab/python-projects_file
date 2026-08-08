@@ -1,27 +1,41 @@
-# Python Projects – Portfolio
+Meine Python-Projekte
 
-Willkommen auf meinem GitHub-Portfolio! Hier präsentiere ich eine Auswahl eigenständig entwickelter Python-Anwendungen mit Fokus auf Anwendungslogik, Datenstrukturen und Prozess-Simulationen.
+Hi! Auf diesem Profil sammle ich ein paar Python-Skripte und kleine Programme, die ich selbst geschrieben habe. Es geht mir vor allem darum, praxisnahe Logik, Datenstrukturen und nützliche Konsolen-Anwendungen umzusetzen.
 
-## 🛠 Ausgewählte Projekte
+🛠️ Die Projekte im Überblick
+1. Lauf-Coach App (Lauf_Coach.py)
+Was es macht: Eine interaktive Konsolen-App, mit der man seine Läufe eintragen, speichern und auswerten kann.
 
-### 1. Lauf-Coach App (`Lauf_Coach.py`)
-- **Konzept:** Menügeführte Konsolenanwendung zur Erfassung und Auswertung von Trainingseinheiten.
-- **Highlights:** Datums-Parsing via `datetime`, automatisierte Pace-Rechnungslogiken, Input-Validierungen gegen Fehlbedienung sowie dynamisches Daten-Filtering.
+Features:
 
-### 2. Relationale Datenstrukturen & Lookup-Tables (`Praxis_Block_1_Bsp_1.py`)
-- **Konzept:** Nachbildung relationaler Datenbankkonzepte (1:N-Beziehungen) in Python.
-- **Highlights:** Verknüpfung von Entitäten (Mitglieder/Mitarbeiter) mit Referenztabellen (Tarife/Abteilungen) über Foreign-Key-IDs mittels Dictionaries.
+Rechnet Dauer, Distanz und Pace um
 
-### 3. Prozess-Simulationen (`Parkhaussystem.py` / `Basics.py`)
-- **Konzept:** Abstraktion kaufmännischer und logistischer Abläufe.
-- **Highlights:** Bezahlautomaten-Logik mit schrittweiser Verrechnung und Rückgeld-Ermittlung sowie automatisierte Paketgewicht-Prüfung mit Schicht-Report.
+Filtert Läufe nach Wochentagen und zeigt den schnellsten Lauf an
 
-## 🚀 Ausführung
+Speichert die Daten dauerhaft ab (JSON) und fängt falsche Eingaben ab
 
-Stelle sicher, dass Python installiert ist, und starte das gewünschte Skript über das Terminal:
+2. Tabellen & Zuordnungen (Praxis_Block_1_Bsp_1.py)
+Was es macht: Verknüpft verschiedene Daten miteinander (wie bei einer Datenbank, nur in Python).
 
-**Windows:**
-```cmd
+Features:
+
+Verbindet z. B. Mitarbeiter oder Mitglieder über IDs mit passenden Abteilungen und Tarifen
+
+Nutzt Dictionaries, um Daten sauber zuzuordnen und auszulesen
+
+3. Logik-Simulationen (Parkhaussystem.py & Basics.py)
+Was es macht: Kleine Programme, die Abläufe aus dem Alltag nachstellen.
+
+Features:
+
+Parkhaus: Ticket-Bezahlsystem, das Einzahlungen mitrechnet, Restbeträge anzeigt und Rückgeld ausgibt
+
+Paket-Scanner: Prüft Paket-IDs auf Gültigkeit und teilt sie automatisch in Versand-Kategorien ein
+
+🚀 Skripte ausführen
+Du brauchst nur Python auf deinem PC. Öffne einfach das Terminal im Ordner und starte das gewünschte Skript:
+
+Bash
+# Beispiel für Windows:
 py Lauf_Coach.py
-
-Entwickelt und getestet unter Version 3.14.3
+Entwickelt und getestet mit Python 3.14
