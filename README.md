@@ -62,4 +62,4 @@ Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, ent
 (Tipp: Solltest du auf eine der Dateien direkt geklickt haben, verändert sich die Dateienansicht. Dadurch wird dir der grüne "Code-Button" nicht mehr angezeigt. Klicke dann einfach oben auf den Link "python-projects_file" und du landest wieder auf der Startansicht. Dort erscheint der grüne Button wieder oben rechts.)
 
 **3. Skript im Terminal starten:**  
-Gebe den Pfad des Ordners (z.B. `cd Documents/python-projects_file-main`) im Terminal ein und dann den Befehl `py ####.py` (# = Name der Datei, die du starten möchtest, z.B. `py Lauf_Coach.py`).
+Gebe den Pfad des Ordners (z.B. `cd Documents/python-projects_file-main`) im Terminal ein und dann den Befehl `py ####.py` (# = Name der Datei, die du starten möchtest, z.B. `Lauf_Coach.`). Letztendlich sollte es folgendermaßen aussehen: z.B. `py Lauf_Coach.py`.
