@@ -1,62 +1,64 @@
 # ⚡ PYTHON PROJECTS – PORTFOLIO ⚡
 
-<br>
-
 Hi! Willkommen auf meinem GitHub-Profil.
 
 Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meiner Freizeit mit Python. Auf dieser Seite zeige ich ein paar Skripte und kleine Konsolen-Programme, die ich gebaut habe, um das Programmieren zu lernen und eigene Ideen umzusetzen. Wenn ich mal nicht weiterwusste oder meine Programme ästhetisch etwas aufwerten wollte, habe ich auch gezielt KI-Tools oder Internetseiten genutzt, um Fehler zu finden und den Code besser zu verstehen.
 
 ---
 
-## DIE PROJEKTE IM ÜBERBLICK
-
-<br>
+## 🛠️ DIE PROJEKTE IM ÜBERBLICK
 
 ### 1. Lauf-Coach App (`Lauf_Coach.py`)
-
 * **Was es macht:** Eine interaktive Konsolen-App, mit der man seine Läufe eintragen, speichern und auswerten lassen kann.
 * **Features:**
   * Rechnet Dauer, Distanz und Pace um
   * Filtert Läufe nach Wochentagen und zeigt den schnellsten Lauf an
   * Speichert die Daten dauerhaft ab (JSON) und fängt falsche Eingaben ab
 
-<br>
-
 ---
 
-<br>
-
 ### 2. Tabellen & Zuordnungen (`Praxis_Block_1_Bsp_1.py`)
-
 * **Was es macht:** Verknüpft verschiedene Daten miteinander (wie bei einer Datenbank, nur in Python).
 * **Features:**
   * Verbindet z. B. Mitarbeiter oder Mitglieder über IDs mit passenden Abteilungen und Tarifen
   * Nutzt Dictionaries, um Daten sauber zuzuordnen und auszulesen
 
-<br>
-
 ---
 
-<br>
-
 ### 3. Logik-Simulationen (`Parkhaussystem.py`)
-
 * **Was es macht:** Kleines Programm, welches Abläufe/Situationen aus dem Alltag nachstellt.
 * **Features:**
   * Ticket-Bezahlsystem, das Einzahlungen mitrechnet, Restbeträge anzeigt und Rückgeld ausgibt
 
-<br>
+---
+
+## 🚀 SKRIPTE AUSFÜHREN
+
+Du kannst die Skripte entweder direkt online im Browser testen oder lokal auf deinem PC ausführen.
+
+### Option 1: Direkt im Browser (GitHub Codespaces)
+Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser zu öffnen:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/emilianklose09-collab/python-projects_file)
+
+**So startest du das Skript in Codespaces:**
+1. Warte kurz, bis die Umgebung geladen ist.
+2. Öffne links im Datei-Explorer die gewünschte `.py`-Datei (z. B. `Lauf_Coach.py`).
+3. Klicke oben rechts im Editor auf das **Play-Symbol** ($\triangleright$) oder gib unten im Terminal `python3 Dateiname.py` ein (z. B. `python3 Lauf_Coach.py`).
 
 ---
 
-## SKRIPTE AUSFÜHREN
+### Option 2: Lokal auf dem PC ausführen
 
-<br>
+**1. Python installieren:**  
+Falls du Python noch nicht installiert hast, lade dir die neueste Version herunter:  
+👉 [python.org/downloads](https://www.python.org/downloads/) *(Aktivierung des Hakens bei "Add Python to PATH" unter Windows nicht vergessen!)*
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/emilianklose09-collab/python-projects_file)
-Du brauchst nur Python auf deinem PC. Öffne einfach das Terminal im Ordner und starte das gewünschte Skript:
+**2. Projekt herunterladen:**  
+Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne dort das Terminal.
 
-```bash
-# Beispiel für Windows:
-py Lauf_Coach.py
-Entwickelt und getestet mit Python 3.14
+**3. Skript im Terminal starten:**
+
+* **Unter Windows:**
+  ```bash
+  py Lauf_Coach.py
