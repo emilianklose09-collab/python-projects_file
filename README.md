@@ -40,7 +40,7 @@ Du kannst die Skripte entweder direkt online im Browser testen oder lokal auf de
 
 Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser zu öffnen:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DEIN-GITHUB-NAME/DEIN-REPOSITORY-NAME)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/emilianklose09-collab/python-projects_file)
 
 **So startest du das Skript in Codespaces:**
 1. Warte kurz, bis die Umgebung geladen ist.
