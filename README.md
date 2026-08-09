@@ -49,20 +49,6 @@ Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meine
 
 ---
 
-<br>
-
-### 4. Rundenbasiertes Kampfsystem (`gegner_klasse.py`)
-
-* **Was es macht:** Ein kleines textbasiertes Spiel, bei dem zwei Gegner (z. B. Troll und Drache) gegeneinander antreten, bis einer verliert.
-* **Features:**
-  * Nutzt Objektorientierung (Klassen & Objekte) für die Eigenschaften der Kämpfer
-  * Berechnet Angriffe, Trefferchancen und Ausweichen zufallsbasiert mit dem `random`-Modul
-  * Passt Lebenspunkte an und gibt den Kampfverlauf rundenbasiert aus
-
-<br>
-
----
-
 ## SKRIPTE AUSFÜHREN
 
 <br>
