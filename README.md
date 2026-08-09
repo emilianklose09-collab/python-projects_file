@@ -36,6 +36,7 @@ Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meine
 
 Du kannst die Skripte entweder direkt online im Browser testen oder lokal auf deinem PC ausführen.
 
+``` bash
 ### Option 1: Direkt im Browser (GitHub Codespaces)
 Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser zu öffnen:
 
@@ -48,15 +49,14 @@ Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser 
 
 ---
 
+``` bash
 ### Option 2: Lokal auf dem PC ausführen
 
 **1. Python installieren:**  
 Falls du Python noch nicht installiert hast, lade dir die neueste Version herunter.
 **2. Projekt herunterladen:**  
-Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne dort das Terminal.
+Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne das Terminal (cmd).
 
 **3. Skript im Terminal starten:**
+Gebe den Pfad des Ordners (z.B. cd Documents/python-projects_file-main) im Terminal ein und dann den Befehl py ####.py (# = Name der Datei, die du starten möchtest, z.B. py Lauf_Coach.py).
 
-* **Unter Windows:**
-  ```bash
-  py Lauf_Coach.py
