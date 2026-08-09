@@ -36,7 +36,7 @@ class Ticket:
 erlaubte_autos = ["HH-AB-123", "SK-EK-456"]
 
 while True:
-    kz_kunde = input("\nKennzeichen angeben (oder 'e' zum Beenden): ").strip().upper()
+    kz_kunde = input("\nKennzeichen angeben oder 'e' zum Beenden eingeben (zulässige Kennzeichen: "HH-AB-123", "SK-EK-456"): ").strip().upper()
 
     if kz_kunde == "E":
         print("System wird heruntergefahren.")
