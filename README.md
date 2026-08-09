@@ -6,7 +6,7 @@ Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meine
 
 ---
 
-## 🛠️ DIE PROJEKTE IM ÜBERBLICK
+## DIE PROJEKTE IM ÜBERBLICK
 
 ### 1. Lauf-Coach App (`Lauf_Coach.py`)
 * **Was es macht:** Eine interaktive Konsolen-App, mit der man seine Läufe eintragen, speichern und auswerten lassen kann.
@@ -32,7 +32,7 @@ Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meine
 
 ---
 
-## 🚀 SKRIPTE AUSFÜHREN
+## SKRIPTE AUSFÜHREN
 
 Du kannst die Skripte entweder direkt online im Browser testen oder lokal auf deinem PC ausführen.
 
