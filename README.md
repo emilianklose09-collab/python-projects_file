@@ -51,9 +51,7 @@ Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser 
 ### Option 2: Lokal auf dem PC ausführen
 
 **1. Python installieren:**  
-Falls du Python noch nicht installiert hast, lade dir die neueste Version herunter:  
-👉 [python.org/downloads](https://www.python.org/downloads/) *(Aktivierung des Hakens bei "Add Python to PATH" unter Windows nicht vergessen!)*
-
+Falls du Python noch nicht installiert hast, lade dir die neueste Version herunter.
 **2. Projekt herunterladen:**  
 Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne dort das Terminal.
 
