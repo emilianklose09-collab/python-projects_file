@@ -36,27 +36,26 @@ Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meine
 
 Du kannst die Skripte entweder direkt online im Browser testen oder lokal auf deinem PC ausführen.
 
-``` bash
 ### Option 1: Direkt im Browser (GitHub Codespaces)
+
 Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser zu öffnen:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/emilianklose09-collab/python-projects_file)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DEIN-GITHUB-NAME/DEIN-REPOSITORY-NAME)
 
 **So startest du das Skript in Codespaces:**
 1. Warte kurz, bis die Umgebung geladen ist.
-2. Öffne links im Datei-Explorer die gewünschte `.py`-Datei (z. B. `Lauf_Coach.py`).
+2. 
 3. Klicke oben rechts im Editor auf das **Play-Symbol** ($\triangleright$) oder gib unten im Terminal `python3 Dateiname.py` ein (z. B. `python3 Lauf_Coach.py`).
 
 ---
 
-``` bash
 ### Option 2: Lokal auf dem PC ausführen
 
 **1. Python installieren:**  
 Falls du Python noch nicht installiert hast, lade dir die neueste Version herunter.
+
 **2. Projekt herunterladen:**  
 Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne das Terminal (cmd).
 
-**3. Skript im Terminal starten:**
-Gebe den Pfad des Ordners (z.B. cd Documents/python-projects_file-main) im Terminal ein und dann den Befehl py ####.py (# = Name der Datei, die du starten möchtest, z.B. py Lauf_Coach.py).
-
+**3. Skript im Terminal starten:**  
+Gebe den Pfad des Ordners (z.B. `cd Documents/python-projects_file-main`) im Terminal ein und dann den Befehl `py ####.py` (# = Name der Datei, die du starten möchtest, z.B. `py Lauf_Coach.py`).
