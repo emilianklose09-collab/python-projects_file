@@ -67,6 +67,7 @@ Ich gehe aktuell noch zur Schule und programmiere seit ein paar Monaten in meine
 
 <br>
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/emilianklose09-collab/python-projects_file)
 Du brauchst nur Python auf deinem PC. Öffne einfach das Terminal im Ordner und starte das gewünschte Skript:
 
 ```bash
