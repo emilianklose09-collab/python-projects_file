@@ -64,4 +64,5 @@ Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, ent
 **3. Skript im Terminal starten:**  
 Gebe den Pfad des Ordners (z.B. `cd Documents/python-projects_file-main`) im Terminal ein und dann den Befehl `py ####.py` (# = Name der Datei, die du starten möchtest, z.B. `Lauf_Coach.`). Letztendlich sollte es folgendermaßen aussehen: z.B. `py Lauf_Coach.py`. Dann einfach Enter drücken und das Programm wird gestartet.
 
-Viel Spaß beim Ausprobieren!
+
+**Viel Spaß beim Ausprobieren!**
