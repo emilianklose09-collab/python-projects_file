@@ -57,7 +57,7 @@ Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser 
 Falls du Python noch nicht installiert hast, lade dir die neueste Version herunter.
 
 **2. Projekt herunterladen:**  
-Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne das Terminal (cmd).
+Klicke oben auf GitHub auf den grünen Button **Code** ➔ **Download ZIP**, entpacke den Ordner und öffne das Terminal (Windows-Taste + r --> cmd + Enter).
 
 (Tipp: Solltest du auf eine der Dateien direkt geklickt haben, verändert sich die Dateienansicht. Dadurch wird dir der grüne "Code-Button" nicht mehr angezeigt. Klicke dann einfach oben auf den Link "python-projects_file" und du landest wieder auf der Startansicht. Dort erscheint der grüne Button wieder oben rechts.)
 
