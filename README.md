@@ -44,8 +44,10 @@ Klicke auf den Button unten, um eine kostenlose Entwicklungsumgebung im Browser 
 
 **So startest du das Skript in Codespaces:**
 1. Warte kurz, bis die Umgebung geladen ist.
-2. 
-3. Klicke oben rechts im Editor auf das **Play-Symbol** ($\triangleright$) oder gib unten im Terminal `python3 Dateiname.py` ein (z. B. `python3 Lauf_Coach.py`).
+2. Angekommen klickst du in der linken Tableiste auf das Symbol (Erweiterungen) mit den vier Quadraten.
+3. Warte kurz, dann installiere die Pythonversion, die im Reiter "Empfohlen" in der linken Tableiste angegeben ist.
+4. Wenn Python installiert ist, klickst du auf das erste Symbol (Explorer), welches einem Hefter/Folder ähnelt.
+5. Klicke dann in der linken Taskleiste auf die gewünschte Datei, die du testen möchtest und klicke in der schwarzen Headleiste auf das **Play-Symbol** ($\triangleright$).
 
 ---
 
